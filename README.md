@@ -11,3 +11,9 @@ Identificar operadores ineficaces basados en llamadas perdidas y tiempos de espe
 ### Tipo de negocio: Tienda en línea internacional
 ### Objetivo
 probar cambios relacionados con la introducción de un sistema de recomendaciones mejorado, observar la factibilidad de implementar el nuevo sistema y su conversión de compras dentro de los siguientes 14 días.
+
+
+## 3. SQL: Consulta de datos de libros y lectores
+### Tipo de Negocio: Startup desarrollo de aplicaciones de librería digital
+### Obetivo
+Conectarse a una base de datos de libros, editoriales, autores y calificaciones de clientes y reseñas de libros para generar una propuesta de valor para un nuevo producto (aplicación de compra de libros y lectura digital) a partir de estadísticas descriptivas, autores, editoriales, títulos en tendencia y reseñas.
