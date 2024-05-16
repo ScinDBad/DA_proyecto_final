@@ -6,4 +6,3 @@
 - **seaborn**: Una librería de visualización basada en matplotlib para gráficos estadísticos.
 - **plotly**: Para crear gráficos interactivos y visualizaciones web.
 - **scipy**: Para funciones matemáticas y científicas avanzadas.
-
