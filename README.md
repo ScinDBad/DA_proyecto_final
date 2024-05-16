@@ -2,9 +2,9 @@
 Proyecto final del Bootcamp, consiste en varias subtareas
 
 ## __1. Telecomunicaciones: identificar operadores ineficaces__
-### __Tipo de negocio:__ Servicio de Telefonía Virtual
+### Tipo de negocio: Servicio de Telefonía Virtual
 
-### __Objetivo__ 
+### Objetivo 
 Identificar operadores ineficaces basados en llamadas perdidas y tiempos de espera prolongados para llamadas entrantes, y baja cantidad de llamadas salientes; para que los supervisores puedan tomar decisiones sobre la formación y gestión del personal a fin de mejorar la eficiencia operativa y la satisfacción del cliente.
 
-## 2. __Test A/B: Implementación de Sistema de recomendaciones de pago__
+## 2. Test A/B: Implementación de Sistema de recomendaciones de pago
