@@ -1,7 +1,7 @@
 # Data Analyst Final Project
 Final project consists of the following subtasks (Click bellow)
 
-<details><summary><H3>📞<b>Telecommunications:</b> Identify inefficient operators</H3></summary><br>
+<details><summary><H3><b>Telecommunications:</b> 📞Identify inefficient operators</H3></summary><br>
 
 <b>Business Type:</b> Virtual Telephony Service<br>
 
@@ -13,7 +13,7 @@ Identify inefficient operators based on dropped calls and long wait times for in
 </details>
 
 
-<details><summary><H3>📈<b>A/B Test:</b> Implementation of Payment Recommendation System</H3></summary><br>
+<details><summary><H3><b>A/B Test:</b> 📈Implementation of Payment Recommendation System</H3></summary><br>
   
 <b>Business Type:</b> International Online Store<br>
 
@@ -24,7 +24,7 @@ To test changes related to the introduction of an improved recommendation system
 <img src="https://github.com/ScinDBad/DA_proyecto_final/assets/153782475/07f48332-0d35-4092-a97b-5838d036541c" alt="Diagrama en blanco8" width="500"><br>
 </details>
 
-<details><summary><H3>🗄️<b>SQL:</b> Querying book and reader data</H3></summary><br>
+<details><summary><H3><b>SQL:</b> 🗄️Querying book and reader data</H3></summary><br>
   
 <b>Business Type:</b> Digital Library Application Development Startup<br>
 
