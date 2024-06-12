@@ -1,8 +1,8 @@
 # Data Analyst Final Project
-Final project of the Bootcamp, consists of several subtasks
+Final project consists of the following subtasks (Click bellow)
 
 <details>
-<summary>1. 📞<b>Telecommunications:</b> Identify inefficient operators</summary><br>
+<summary><H3>📞<b>Telecommunications:</b> Identify inefficient operators</H3></summary><br>
 
 <b>Business Type:</b> Virtual Telephony Service<br>
 
@@ -11,13 +11,11 @@ Identify inefficient operators based on dropped calls and long wait times for in
 
 <b>Process</b><br>
 <img src="https://github.com/ScinDBad/DA_proyecto_final/assets/153782475/abe0622c-7976-4ea1-b6d0-1f0d6d13abd5" alt="Diagrama en blanco8" width="500"><br>
-</details><br>
-
-
+</details>
 
 
 <details>
-<summary>2. 📈<b>A/B Test:</b> Implementation of Payment Recommendation System</summary><br>
+<summary><H3>📈<b>A/B Test:</b> Implementation of Payment Recommendation System</H3></summary><br>
   
 <b>Business Type:</b> International Online Store<br>
 
@@ -26,11 +24,10 @@ To test changes related to the introduction of an improved recommendation system
 
 <b>Process</b><br>
 <img src="https://github.com/ScinDBad/DA_proyecto_final/assets/153782475/07f48332-0d35-4092-a97b-5838d036541c" alt="Diagrama en blanco8" width="500"><br>
-</details><br>
-
+</details>
 
 <details>
-<summary>3. 🗄️<b>SQL:</b> Querying book and reader data</summary><br>
+<summary><H3>🗄️<b>SQL:</b> Querying book and reader data</H3></summary><br>
   
 <b>Business Type:</b> Digital Library Application Development Startup<br>
 
@@ -63,8 +60,8 @@ ___
 - __For Cloud work:__ Set/enable the packages `pkgs.python311`, `pkgs.python311Packages.pip` in the .idx/dev.nix file.
 - Install `requirements.txt`
 
-Note:
+_**Note:**
 This project was carried out within the Project IDX environment (by Google) based on Nix.
 A virtual environment was used to utilize Python version 3.11.8 supported by the environment and other libraries for data analysis.
 The requirements.txt file contains detailed dependencies used in the project to function in the IDX environment.
-The .idx/dev.nix file contains the package configuration to be used, which are: `pkgs.python311`, `pkgs.python311Packages.pip`.
+The .idx/dev.nix file contains the package configuration to be used, which are: `pkgs.python311`, `pkgs.python311Packages.pip`._
