@@ -1,31 +1,48 @@
 # Data Analyst Final Project
 Final project of the Bootcamp, consists of several subtasks
 
-## 1. 📞Telecommunications: Identify inefficient operators 
-### Business Type: Virtual Telephony Service
+<details>
+<summary>1. 📞<b>Telecommunications:</b> Identify inefficient operators</summary><br>
 
-### Description
+<b>Business Type:</b> Virtual Telephony Service<br>
+
+<b>Description</b><br>
 Identify inefficient operators based on dropped calls and long wait times for incoming calls, and low number of outgoing calls; so that supervisors can make decisions regarding staff training and management to improve operational efficiency and customer satisfaction.
-### Process
+
+<b>Process</b><br>
 <img src="https://github.com/ScinDBad/DA_proyecto_final/assets/153782475/abe0622c-7976-4ea1-b6d0-1f0d6d13abd5" alt="Diagrama en blanco8" width="500"><br>
+</details><br>
 
-## 2. 📈A/B Test: Implementation of Payment Recommendation System 
-### Business Type: International Online Store
 
-### Description
+
+
+<details>
+<summary>2. 📈<b>A/B Test:</b> Implementation of Payment Recommendation System</summary><br>
+  
+<b>Business Type:</b> International Online Store<br>
+
+<b>Description</b><br>
 To test changes related to the introduction of an improved recommendation system, observe the feasibility of implementing the new system, and its conversion of purchases within the next 14 days.
-### Process
+
+<b>Process</b><br>
 <img src="https://github.com/ScinDBad/DA_proyecto_final/assets/153782475/07f48332-0d35-4092-a97b-5838d036541c" alt="Diagrama en blanco8" width="500"><br>
+</details><br>
 
-## 3. 🗄️SQL: Querying book and reader data 
-### Business Type: Digital Library Application Development Startup
 
-### Description
+<details>
+<summary>3. 🗄️<b>SQL:</b> Querying book and reader data</summary><br>
+  
+<b>Business Type:</b> Digital Library Application Development Startup<br>
+
+<b>Description</b><br>
 Connect to a database of books, publishers, authors, and customer ratings and book reviews to generate a value proposition for a new product (book purchase and digital reading application) based on descriptive statistics, trending authors, publishers, titles, and reviews.
-### Process
+
+<b>Process</b><br>
 <img src="https://github.com/ScinDBad/DA_proyecto_final/assets/153782475/70b10f4a-3c5e-4262-b091-136041aa5c84" alt="Diagrama en blanco8" width="500"><br>
+</details>
 
 ___
+
 ### 🛠️Tools:<br>
 Python, Jupyter, Project IDX
 
