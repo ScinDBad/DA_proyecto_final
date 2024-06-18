@@ -66,4 +66,4 @@ A virtual environment was used to utilize Python version 3.11.8 supported by the
 The requirements.txt file contains detailed dependencies used in the project to function in the IDX environment.
 The .idx/dev.nix file contains the package configuration to be used, which are: `pkgs.python311`, `pkgs.python311Packages.pip`._
 
-[Watch animation](https://github.com/ScinDBad/UR3-CobotOps/assets/153782475/e76a597b-ffca-451f-b546-a2561f59da3d)
+https://github.com/ScinDBad/UR3-CobotOps/assets/153782475/e76a597b-ffca-451f-b546-a2561f59da3d
